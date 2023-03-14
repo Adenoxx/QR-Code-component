@@ -1,0 +1,36 @@
+html {
+  font-family:'Outfit', sans-serif;
+  text-align: centre;
+  background-color: hsl(212, 45%, 89%);
+}
+
+.flex-container{
+  display: flex;
+  justify-content: center;
+  padding-top: 5rem;
+}
+
+ .whole-content {
+  background-color: hsl(0, 0%, 100%);
+  width: 260px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.whole-content img{
+  border-radius: 10px;
+  margin-left: 5px;
+}
+
+.title {
+  font-weight: bold;
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+.action {
+  text-align: center;
+  font-size: 0.9rem;
+  color: hsl(220, 15%, 55%);
+}
+
